@@ -1,0 +1,3 @@
+C:/Users/anton/git/CMake/SettingsFlags/build/CMakeFiles/Program.dir
+C:/Users/anton/git/CMake/SettingsFlags/build/CMakeFiles/edit_cache.dir
+C:/Users/anton/git/CMake/SettingsFlags/build/CMakeFiles/rebuild_cache.dir
